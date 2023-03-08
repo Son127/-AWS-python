@@ -1,0 +1,8 @@
+[user]
+	name = Son127
+	email = A01051067504@gamil.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
